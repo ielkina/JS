@@ -35,7 +35,7 @@ const person = "Alex";
 
 const bool = true; /*boolean тип данных*/
 
-console.log(something); //null обращение к несуществующей переменной
+// console.log(something); //null обращение к несуществующей переменной
 
 let und;
 console.log(und);
@@ -51,7 +51,7 @@ const obj = { /*объект (в примере человек)*/
     /*свойства объекта и действия (методы)(статус объекта)*/
 };
 console.log(obj.name); /*обращение к объекту.к имени объекта*/
-console.log(obj['name']);
+// console.log(obj['name']);
 /*два варианта вывода в консоль. предпочтительный первый*/
 
 /*Массивы в JS отсчет начинается с 0  
